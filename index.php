@@ -9,6 +9,12 @@
     </div>
     <img src="grocery.jpg" alt="Grocery">
 </div>
+<div >
+    <p >
+        Copyright © 2026-2027 Supermarket Grocery Supplies Pvt Ltd
+    </p>
+</div>
+
 
 </body>
 </html>
